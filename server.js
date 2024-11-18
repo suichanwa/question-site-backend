@@ -50,18 +50,19 @@ app.post('/get-answers', (req, res) => {
 });
 
 app.get('/correct-answers', (req, res) => {
-    const filePath = path.join(__dirname, 'public', 'correctAnswers.json');
+    const filePath = path.join(__dirname, 'correctAnswers.json');
     res.sendFile(filePath);
 });
 
+// Remove or comment out the following lines
 // Serve static files from the React app
-app.use(express.static(path.join(__dirname, 'build')));
+// app.use(express.static(path.join(__dirname, 'build')));
 
 // The "catchall" handler: for any request that doesn't
 // match one above, send back React's index.html file.
-app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname + '/build/index.html'));
-});
+// app.get('*', (req, res) => {
+//     res.sendFile(path.join(__dirname + '/build/index.html'));
+// });
 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
