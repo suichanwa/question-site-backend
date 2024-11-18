@@ -1,0 +1,217 @@
+Name: nume 
+Surname: nume
+Answers:
+Galben strălucitor
+Albastru-roșu electric
+Fără 37 de minute ora 14
+Una neagră și trei albe
+Gri elegant
+
+Name: nume2
+Surname: nume3
+Answers:
+Galben strălucitor
+Albastru-roșu electric
+Fără 37 de minute ora 14
+Una neagră și trei albe
+Gri elegant
+
+Name: num34
+Surname: num34
+Answers:
+Albastru regal
+Roșu-albastru vibrant
+Fără 37 de minute ora 14
+Una neagră și trei albe
+Gri elegant
+
+Name: nu3
+Surname: nu3
+Answers:
+Galben strălucitor
+Albastru-roșu electric
+Fără 37 de minute ora 14
+Una neagră și trei albe
+Gri elegant
+
+Name: ed
+Surname: ed
+Answers:
+Galben strălucitor
+Albastru-roșu electric
+Fără 37 de minute ora 14
+Una neagră și trei albe
+Gri elegant
+
+Name: 88
+Surname: 99
+Answers:
+Roșu aprins
+Roșu intens
+13:23
+Două negre și două albe
+Alb imaculat
+
+Name: adf
+Surname: asdf
+Answers:
+Roșu aprins
+Roșu intens
+13:23
+Două negre și două albe
+Alb imaculat
+
+Name: dxdf
+Surname: dafdaf
+Answers:
+Albastru regal
+Roșu-albastru vibrant
+Fără 37 de minute ora 14
+Două negre și două albe
+Gri elegant
+
+Name: dxdf
+Surname: dafdaf
+Answers:
+Albastru regal
+Roșu-albastru vibrant
+Fără 37 de minute ora 14
+Două negre și două albe
+Gri elegant
+Gri elegant
+
+Name: awdwd
+Surname: wdadw
+Answers:
+Roșu aprins
+Roșu-albastru vibrant
+Fără 37 de minute ora 14
+Patru puncte distincte
+Gri elegant
+
+Name: dfdaf
+Surname: dasf
+Answers:
+Galben strălucitor
+Albastru-roșu electric
+Fără 37 de minute ora 14
+Patru puncte distincte
+Gri elegant
+
+Name: kld
+Surname: fdf
+Answers:
+Roșu aprins
+Roșu-albastru vibrant
+Fără 37 de minute ora 14
+Una neagră și trei albe
+Gri elegant
+
+Name: namef
+Surname: namef
+Answers:
+Albastru regal
+Albastru-roșu electric
+Fără 37 de minute ora 14
+Una neagră și trei albe
+Gri elegant
+
+Name: kjkljk
+Surname: kljkj
+Answers:
+Galben strălucitor
+Albastru-roșu electric
+Fără 37 de minute ora 14
+Una neagră și trei albe
+Gri elegant
+
+Name: wadawd
+Surname: wada
+Answers:
+Roșu aprins
+Albastru-roșu electric
+Fără 37 de minute ora 14
+Patru puncte distincte
+Negru profund
+
+Name: dfd
+Surname: dfdf
+Answers:
+Galben strălucitor
+Albastru-roșu electric
+Fără 37 de minute ora 14
+Patru puncte distincte
+Gri elegant
+
+Name: dafadsf
+Surname: adsfdasf
+Answers:
+Galben strălucitor
+Albastru-roșu electric
+Fără 37 de minute ora 14
+Patru puncte distincte
+Gri elegant
+
+Name: fdf
+Surname: dfdf
+Answers:
+Galben strălucitor
+Albastru-roșu electric
+Fără 37 de minute ora 14
+Una neagră și trei albe
+Gri elegant
+
+Name: fgfg
+Surname: dgdg
+Answers:
+Galben strălucitor
+Albastru-roșu electric
+Fără 37 de minute ora 14
+Una neagră și trei albe
+Gri elegant
+
+Name: awdwad
+Surname: wdawd
+Answers:
+Galben strălucitor
+Roșu-albastru vibrant
+Fără 37 de minute ora 14
+Patru puncte distincte
+Gri elegant
+
+Name: name
+Surname: name
+Answers:
+Roșu aprins
+Roșu-albastru vibrant
+Fără 37 de minute ora 14
+Una neagră și trei albe
+Negru profund
+
+Name: awdawd
+Surname: wadaw
+Answers:
+Roșu aprins
+Roșu intens
+13:23
+Două negre și două albe
+Alb imaculat
+
+Name: fadwd
+Surname: wadwd
+Answers:
+Albastru regal
+Albastru-roșu electric
+Fără 37 de minute ora 14
+Patru puncte distincte
+Gri elegant
+
+Name: awdwad
+Surname: awdwad
+Answers:
+Roșu aprins
+Roșu-albastru vibrant
+14:20
+Una neagră și trei albe
+Gri elegant
+
